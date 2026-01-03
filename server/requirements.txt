@@ -1,0 +1,11 @@
+asgiref
+Django
+django-redis
+djangorestframework
+dnspython
+mongoengine
+psycopg
+pymongo
+python-dotenv
+redis
+sqlparse
